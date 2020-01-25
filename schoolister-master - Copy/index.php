@@ -124,7 +124,7 @@ try {
 
 	} else {
 
-		header("Location: local3.html");
+		header("Location: censordodge.html");
 
 	}
 }
